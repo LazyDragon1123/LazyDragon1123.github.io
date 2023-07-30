@@ -1,0 +1,16 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+header, nav, section, footer {
+    margin: 20px;
+}
+
+nav a {
+    margin-right: 10px;
+}
+
+footer {
+    text-align: center;
+    margin-top: 50px;
+}
